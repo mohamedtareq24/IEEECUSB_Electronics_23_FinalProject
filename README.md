@@ -11,6 +11,7 @@ the file is divided into 3 major points and they are.
 we suggest that you implement the following. 
 
 ### B- The archticture 
+![image](https://user-images.githubusercontent.com/90535558/214970655-d3511e4d-e122-4e70-b4b2-924935b57182.png)
 
 
 ### C- Useful guidelines and references 
@@ -23,3 +24,4 @@ we suggest that you implement the following.
 - David Harris RV-32I implentation :    
   * https://www.youtube.com/watch?v=a8yewzP-kJc
   * https://www.youtube.com/watch?v=ouwuXl5AG-k
+ - DDCA : https://www.amazon.com/Digital-Design-Computer-Architecture-RISC-V/dp/0128200642 Chapter 7 & 6 
