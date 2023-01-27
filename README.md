@@ -44,7 +44,6 @@ and assembles to
 0x00a6a023
 0xfec51ae3
 0x00000013
-
 ```
 
 ### B- The architecture 
