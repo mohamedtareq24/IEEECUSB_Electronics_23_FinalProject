@@ -16,7 +16,7 @@ we suggest that you implement the following.
 
 ### C- Useful guidelines and references 
 - RISC-V ISA summary:  http://pages.hmc.edu/harris/ddca/ddcarv/DDCArv_AppB_Harris.pdf
-- RISC-V to Machine code : https://luplab.gitlab.io/rvcodecjs/
+- RISC-V assembler : https://riscvasm.lucasteske.dev/
 - RISC-V simulator : https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/ 
 - Data Path and Controller method by paul Franzon : 
   * https://www.youtube.com/watch?v=AuRLmvclsU8&ab_channel=NCSUDigitalASIC 
