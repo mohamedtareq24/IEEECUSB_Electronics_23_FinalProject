@@ -8,7 +8,7 @@ the file is divided into 3 major points, and they are.
  - C - Useful guidelines and references 
 
 ### A- The Program
-throughout the file following simple counter program will be implemented. 
+throughout the file, the following simple counter program will be implemented. 
 ```
 #include <stdio.h>
 
