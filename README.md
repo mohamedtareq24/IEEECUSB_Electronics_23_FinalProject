@@ -49,7 +49,10 @@ and assembles to
 
 ### B- The architecture 
 ![image](https://user-images.githubusercontent.com/90535558/214970655-d3511e4d-e122-4e70-b4b2-924935b57182.png)
-
+### The archricture will be devided into 3 parts 
+- The datapath
+- The controller 
+- The UART Tx
 
 ### C- Useful guidelines and references 
 - RISC-V ISA summary:  http://pages.hmc.edu/harris/ddca/ddcarv/DDCArv_AppB_Harris.pdf
