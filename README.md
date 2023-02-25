@@ -51,6 +51,7 @@ and assembles to
 ### The archricture will be devided into 3 parts 
 - The datapath
 - The controller 
+- Top level with Cashes
 - The UART Tx
 
 ### C- Useful guidelines and references 
