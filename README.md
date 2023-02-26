@@ -48,6 +48,9 @@ and assembles to
 
 ### B- The architecture 
 ![image](https://user-images.githubusercontent.com/90535558/214970655-d3511e4d-e122-4e70-b4b2-924935b57182.png)
+#### system top
+![image](https://user-images.githubusercontent.com/90535558/221443588-df5ef055-5b3c-43e4-b24f-20c287646c95.png)
+
 ### The archricture will be devided into 3 parts 
 - The datapath
 - The controller 
