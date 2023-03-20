@@ -1,0 +1,9 @@
+    xor  x0,x0,x0
+    addi x12,x0,32 
+    addi x10,x0,0
+    addi x13,x0,0
+while:
+    addi x10,x10,1
+    sw x10,0(x13)
+    bne  x10,x12,while
+    hlt
